@@ -17,4 +17,6 @@ Teaching Programming Portfolio - Lesson Plan:
 
 
 ## Week3
-Link: [Week3-Nested Loop-Show What You know: Write and Explain A Program](https://youtu.be/QHCBlD-vEVQ)
+Link to Nested Loop Video: [Week3-Nested Loop-Show What You know: Write and Explain A Program](https://youtu.be/QHCBlD-vEVQ)
+
+Link to Condition Video: [Week3-Condition-Show What You Know: Write and Explain A Program](https://youtu.be/1VcY8wdRduY) 
