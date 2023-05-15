@@ -26,3 +26,6 @@ Link to Variables Cideo : [Week4-Variables-Show What Your Know: Write and Explai
 
 ## Week5
 Link to Repeat Unitl Loop: [Week5-Repeat Until Loop-Show What Your Know: Write and Explain A Program](https://youtu.be/oHGVKJithP0)
+
+## Week6
+Link to If-else condition: [Week6-If else condition-Show What Your Know: Write and Explain A Program](https://youtu.be/Ky7bvuKhVDI)
