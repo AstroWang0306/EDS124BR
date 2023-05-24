@@ -29,3 +29,6 @@ Link to Repeat Unitl Loop: [Week5-Repeat Until Loop-Show What Your Know: Write a
 
 ## Week6
 Link to If-else condition: [Week6-If else condition-Show What Your Know: Write and Explain A Program](https://youtu.be/Ky7bvuKhVDI)
+
+## Week7
+Link to nested If-Else: [Week7-Nested If else-Show What Your Know: Write and Explain A Program](https://youtu.be/XSDksCF1k5I)
