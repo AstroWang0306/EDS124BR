@@ -32,3 +32,6 @@ Link to If-else condition: [Week6-If else condition-Show What Your Know: Write a
 
 ## Week7
 Link to nested If-Else: [Week7-Nested If else-Show What Your Know: Write and Explain A Program](https://youtu.be/XSDksCF1k5I)
+
+## Week8
+Link to compound conditions: [Week8-Compound Conditions-Show What Your Know: Write and Explain A Program](https://youtu.be/oe6w9vm61dI)
