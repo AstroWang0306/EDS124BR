@@ -39,3 +39,6 @@ Link to compound conditions: [Week8-Compound Conditions-Show What Your Know: Wri
 
 ## Week9
 Link to Functions: [Week9-Functions-Show What Your Know: Write and Explain A Program](https://youtu.be/2c6Pzs_WLuw)
+
+## Week10
+Link to List: [Week10-List-Show What Your Know: Write and Explain A Program](https://youtu.be/sX7QYHw8mC8)
